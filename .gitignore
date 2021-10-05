@@ -1,6 +1,7 @@
 # IDEA
 .idea
-
+# others
+.DS_Store
 # Generated site
 _site
 site
