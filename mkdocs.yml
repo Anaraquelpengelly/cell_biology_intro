@@ -2,12 +2,12 @@ site_name: Introduction to cellular biology
 site_url: https://fhiegel.github.io/slide-template
 site_description: >
   Templates for creating slides into static site generators
-repo_url: https://github.com/fhiegel/slide-template
+repo_url: https://fhiegel.github.io/slide-template
 
 nav:
   - Home: index.md
-  - Slides:
-    - Simple: pitch.md
+  - Slides: pitch.md
+  - References: refs.md
 
 theme:
   name: material
@@ -32,6 +32,10 @@ extra:
     name: fhiegel
 
 # Extensions
+plugins:
+  - search
+  - print-site
+
 markdown_extensions:
   - admonition
   - extra

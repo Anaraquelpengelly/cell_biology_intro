@@ -4,8 +4,10 @@
 
 ### 2. DNA: the genetic information of cells
 
-### 3. Proteins and their functions 
+### 3. The structure of genes 
 
 ### 4. From DNA to proteins
 
-### 5. The structure of genes 
+### 5. Proteins and their functions
+
+
