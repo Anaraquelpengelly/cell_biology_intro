@@ -1,8 +1,8 @@
 site_name: Introduction to cellular biology
-site_url: https://example.com/
+site_url: https://anaraquelpengelly.github.io/cell_biology_intro/
 site_description: >
   Introduction to Cell Biology lecture
-repo_url: https://github.com/Anaraquelpengelly/cell_bio_lecture
+repo_url: https://github.com/Anaraquelpengelly/cell_biology_intro.git
 
 nav:
   - Home: index.md
