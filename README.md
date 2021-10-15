@@ -1,6 +1,9 @@
 # Introduction to Cell Biology Lecture
 
 This repo contains the slides as well as references for future reading.
+If you would like to access it via github pages, please go here : https://anaraquelpengelly.github.io/cell_biology_intro/
+
+If you would like to reproduce the slides yourself, please follow the steps below.
 
 ## Install
 
