@@ -1,26 +1,28 @@
-# Sides Template
+# Introduction to Cell Biology Lecture
 
-Static site template using MkDoc and RevealJS, in order to mix documentation and presentations.
-Exemple available here: https://fhiegel.github.io/slide-template/
+This repo contains the slides as well as references for future reading
 
 ## Install
 
-First, clone repository.
+To fully view this lecture you will have to:
+1. Clone the repository by first opening your terminal and then typing:
 
-    git clone --recursive git@github.com:fhiegel/slide-template.git
-    
-If you forgot the "--recursive" part, don't worry and do the following
+'''
+git clone https://github.com/Anaraquelpengelly/cell_bio_lecture.git 
 
-    git submodule update --init --recursive
+''' 
+2. Install mkdocs by typing in your terminal:
 
-## Install MKDoc and run your site
+'''
+pip install mkdocs mkdocs-material
 
-Install MkDocs and plugins, then run it
+'''
 
-    pip install mkdocs mkdocs-material
-    mkdocs serve
+3. In the terminal go to the cell_bio_lecture folder that the git clone produced, and type (in the terminal):
 
-## Troubleshooting
+'''
+mkdocs serve
 
-When starting server locally, and going on slide page, you may encounter a Javascript error : the slide is blank.
-To workaround, go in your submodule "revealjs" and format the file `theme/reveal.js/plugin/notes/notes.js`. 
+'''
+
+If you encounter any problems send me an email [here](ana.pengelly19@imperial.ac.uk).

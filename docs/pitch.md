@@ -65,7 +65,7 @@ Hydrogen bonds form between A & T (2 bonds) and between C & G (3 bonds).
 |Concept | Detailed representation| 
 |:-------------:|:----------------:|
 |<img style="width:450px; height:auto;" title="replication" src= replication.png> | <img style="width:550px; height:auto;" title="complex replication" src= repli_complex.png>|
-* <p style="color:black;font-size:24px;line-height:1.0;"> High fidelity duplication mechanism (1 in 10<sup>10</sup> errors per nucleotide).</p>
+* <p style="color:black;font-size:24px;line-height:1.0;"> High fidelity duplication mechanism (1 error per 10<sup>10</sup> nucleotides).</p>
 * <p style="color:black;font-size:24px;line-height:1.0;"> Each strand of DNA acts as a template for its own duplication.</p> 
 * <p style="color:black;font-size:24px;line-height:1.0;"> Conducted by DNA-polymerase in a 5' to 3' direction. </p>
 
@@ -133,17 +133,6 @@ Hydrogen bonds form between A & T (2 bonds) and between C & G (3 bonds).
 
 ---
 
-### The structure of eukaryotic genes
-
-<img title="gene_struct" src= gene_structure.png >
-
-* Promoter (TATA box)
-* Transcription start site (TSS)
-* Transcriptional stop (mRNA PolyA site and mRNA cleavage site
-* Can have exons and introns.
-
----
-
 ### Transcription
 
 * Takes place in the nucleus
@@ -158,6 +147,17 @@ Hydrogen bonds form between A & T (2 bonds) and between C & G (3 bonds).
 |:--|:--|
 |2'deoxyribose|ribose|
 | T| U|
+
+---
+
+### The structure of eukaryotic genes
+
+<img title="gene_struct" src= gene_structure.png >
+
+* Promoter (TATA box)
+* Transcription start site (TSS)
+* Transcriptional stop (mRNA PolyA site and mRNA cleavage site
+* Can have exons and introns.
 
 ---
 
@@ -178,7 +178,6 @@ Hydrogen bonds form between A & T (2 bonds) and between C & G (3 bonds).
 
 ---
 
-
 ### 3. Termination of Transcription
 <img style="width:auto; height:500px;" title="transcrip_term" src= transcrip_term_1.png >
 
@@ -191,7 +190,67 @@ Hydrogen bonds form between A & T (2 bonds) and between C & G (3 bonds).
 
 <img style="width:auto; height:350px;" title="transcrip_term" src= transcrip_term_2.png >
 
-The mature mRNA molecule is now ready to be exported to the cytoplasm to be translated. 
+The mature mRNA molecule is now ready to be exported to the cytoplasm to be translated.
+
+---
+
+## Translation
+
+---
+
+### Translation
+
+<img style="width: auto; height: 350px;" title="translation_codons" src=translation_codons.png >
+
+* Not all transcripts are translated
+* Takes place in the cytoplasm
+* 'translates' mature mRNAs into proteins
+* Catalysed by ribosomes
+* Facilitated by transfer RNAs (tRNAs)  
+
+---
+
+#### The Genetic Code
+
+<img style="width: auto; height: 700px;" title="genetic_code" src= genetic_code.png>
+
+---
+
+#### Transfer RNAs (t-RNAs)
+
+<img style="width: auto; height: 350px;" title="t_RNAs" src=transfer_rna.png >
+
+---
+
+### Initiation of Translation
+<img style="width: auto; height: 700px;" title="init_translation" src= translation_initiation.png>
+
+---
+
+### Termination of Translation
+<img style="width: auto; height: 450px;" title="termi_translation" src= translation_termination.png>
+
+At the end of translation, polypeptide chains, can be chemically modified to take their 3D conformation.
+
+---
+
+### Proteins are the building blocks of the cell 
+
+##### Functions of Proteins
+
+<iframe width="auto" height="315" src="https://www.youtube.com/embed/Wha6WDzRDSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* <p style="color:black;font-size:22px;line-height:0.25;">Enzymes (e.g. convert precursor molecules to metabolites)</p>
+* <p style="color:black;font-size:22px;line-height:0.25;">Structural components of the cell</p>
+* <p style="color:black;font-size:22px;line-height:0.25;">Messenger functions</p>
+* <p style="color:black;font-size:22px;line-height:0.25;">Signal transduction</p>
+* <p style="color:black;font-size:22px;line-height:0.25;">Molecular machines</p>
+* <p style="color:black;font-size:22px;line-height:0.25;">Antibodies </p>
+* <p style="color:black;font-size:22px;line-height:0.25;">Toxins </p>
+* <p style="color:black;font-size:22px;line-height:0.25;">Hormones </p>
+
+> <p style="color:black;font-size:22px;line-height:0.25;"> All proteins bind other molecules.</p>
+
 
 ---
 
@@ -217,6 +276,8 @@ The mature mRNA molecule is now ready to be exported to the cytoplasm to be tran
 
 ---
 
+<img style="width: auto; height: 400px;" title="ctrl_gene_exp" src=different_cell_types.png >
+
 In multicellular organisms different cell types have different functions and structures. However, they (in the vast majority of cases), have the same DNA sequence. So how is this achieved?
 
 ---
@@ -232,52 +293,7 @@ In multicellular organisms different cell types have different functions and str
  
 <p style="color:black;font-size:24px;line-height:1.0;"> Some of these modifications can be inherited to the next generation of cells after cell division.</p>
 
----
 
-### Translation
-
-<img style="width: auto; height: 350px;" title="translation_codons" src=translation_codons.png >
-
-* Not all transcripts are translated
-* Takes place in the cytoplasm
-* 'translates' mature RNAs into proteins
-* Catalysed by ribosomes
-* Facilitated by transfer RNAs (tRNAs)  
-
----
-
-#### The Genetic Code
-
-<img style="width: auto; height: 700px;" title="genetic_code" src= genetic_code.png>
-
----
-
-### Initiation of Translation
-<img style="width: auto; height: 700px;" title="init_translation" src= translation_initiation.png>
-
----
-
-### Termination of Translation
-<img style="width: auto; height: 450px;" title="termi_translation" src= translation_termination.png>
-
-At the end of translation, polypeptide chains, can be chemically modified to take their 3D conformation.
-
----
-
-### Proteins are the building blocks of the cell 
-
-##### Functions of Proteins
-
-* <p style="color:black;font-size:22px;line-height:0.25;">Enzymes (e.g. convert precursor molecules to metabolites)</p>
-* <p style="color:black;font-size:22px;line-height:0.25;">Structural components of the cell</p>
-* <p style="color:black;font-size:22px;line-height:0.25;">Messenger functions</p>
-* <p style="color:black;font-size:22px;line-height:0.25;">Signal transduction</p>
-* <p style="color:black;font-size:22px;line-height:0.25;">Molecular machines</p>
-* <p style="color:black;font-size:22px;line-height:0.25;"> Antibodies </p>
-* <p style="color:black;font-size:22px;line-height:0.25;"> Toxins </p>
-* <p style="color:black;font-size:22px;line-height:0.25;"> Hormones </p>
-
-> <p style="color:black;font-size:22px;line-height:0.25;"> All proteins bind other molecules.</p>
 
 ---
 
