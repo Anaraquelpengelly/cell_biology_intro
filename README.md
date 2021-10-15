@@ -9,7 +9,7 @@ To fully view this lecture you will have to:
 1. Clone the repository by first opening your terminal and then typing:
 
 
-  `git clone https://github.com/Anaraquelpengelly/cell_bio_lecture.git` 
+  `git clone https://github.com/Anaraquelpengelly/cell_biology_intro.git` 
 
  
 2. Install mkdocs by typing in your terminal:
